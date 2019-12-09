@@ -218,11 +218,7 @@ p {
 }
 
 .carusel-arr-left {
-    position: relative;
-    top: 10px;
-    left: -2px;
-    border: none;
-    background-color: transparent;
+    margin: 110px 0 0 100px;
 }
 
 .carusel-arr-left:hover {
@@ -269,11 +265,7 @@ p {
 }
 
 .carusel-arr-right {
-    position: relative;
-    top: 10px;
-    left: -10px;
-    border: none;
-    background-color: transparent;
+    margin: 110px 100px 0 0;
 }
 
 .carusel-arr-right:hover {
