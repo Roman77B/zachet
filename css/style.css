@@ -176,7 +176,7 @@ p {
 }
 
 .burger-pic {
-    visibility: hidden;
+    display: none;
 }
 
 .main-menu-item {
@@ -1579,7 +1579,7 @@ p {
     }
 
     .burger-pic {
-        visibility: visible;
+        display: block;
         color: #998675;
         transition: 0.3s;
     }
