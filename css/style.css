@@ -175,6 +175,10 @@ p {
     display: none;
 }
 
+.burger-pic {
+    visibility: hidden;
+}
+
 .main-menu-item {
     margin: 0 20px 0 0;
     font-family: 'montserratlight';
@@ -1575,6 +1579,7 @@ p {
     }
 
     .burger-pic {
+        visibility: visible;
         color: #998675;
         transition: 0.3s;
     }
